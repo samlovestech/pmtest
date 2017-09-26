@@ -26,6 +26,7 @@ NA	4
 14	13
 2	4
 4	5
+
 Note that each method takes in two one column vectors, each representing “Case” and “Control” respecitvely.
 
 Partially matched samples can be viewed as data generated from two experimental designs where both designs intend to estimate the same parameter:
