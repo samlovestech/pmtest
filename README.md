@@ -1,7 +1,7 @@
 # pmtest
 R package that implements those modified tests
 
-    When dealing with scenarios where some samples from matched pairs design are missing, common statistical tests lack operating characteristics to robustly infer on parameters. The pmtest package provides users with five options when analyzing partially matched samples:
+When dealing with scenarios where some samples from matched pairs design are missing, common statistical tests lack operating characteristics to robustly infer on parameters. The pmtest package provides users with five options when analyzing partially matched samples:
 
 
 Modified T-Statistic by Kim et al
